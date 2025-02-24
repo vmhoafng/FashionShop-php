@@ -19,7 +19,7 @@
 			<ul class="header-cart-wrapitem w-full">
 				<li class="header-cart-item flex-w flex-t m-b-12">
 					<div class="header-cart-item-img">
-						<img src="images/item-cart-01.jpg" alt="IMG">
+						<img src="../images/item-cart-01.jpg" alt="IMG">
 					</div>
 
 					<div class="header-cart-item-txt p-t-8">
@@ -35,7 +35,7 @@
 
 				<li class="header-cart-item flex-w flex-t m-b-12">
 					<div class="header-cart-item-img">
-						<img src="images/item-cart-02.jpg" alt="IMG">
+						<img src="../images/item-cart-02.jpg" alt="IMG">
 					</div>
 
 					<div class="header-cart-item-txt p-t-8">
@@ -51,7 +51,7 @@
 
 				<li class="header-cart-item flex-w flex-t m-b-12">
 					<div class="header-cart-item-img">
-						<img src="images/item-cart-03.jpg" alt="IMG">
+						<img src="../images/item-cart-03.jpg" alt="IMG">
 					</div>
 
 					<div class="header-cart-item-txt p-t-8">
@@ -106,7 +106,7 @@
 
 					<div class="bor8 m-b-20 how-pos4-parent">
 						<input class="stext-111 cl2 plh3 size-116 p-l-62 p-r-30" type="text" name="email" placeholder="Your Email Address">
-						<img class="how-pos4 pointer-none" src="images/icons/icon-email.png" alt="ICON">
+						<img class="how-pos4 pointer-none" src="../images/icons/icon-email.png" alt="ICON">
 					</div>
 
 					<div class="bor8 m-b-30">

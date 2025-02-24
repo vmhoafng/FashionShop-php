@@ -21,7 +21,7 @@ $Products=loadSanPham_Product();
 			<ul class="header-cart-wrapitem w-full">
 				<li class="header-cart-item flex-w flex-t m-b-12">
 					<div class="header-cart-item-img">
-						<img src="images/item-cart-01.jpg" alt="IMG">
+						<img src="../images/item-cart-01.jpg" alt="IMG">
 					</div>
 
 					<div class="header-cart-item-txt p-t-8">
@@ -37,7 +37,7 @@ $Products=loadSanPham_Product();
 
 				<li class="header-cart-item flex-w flex-t m-b-12">
 					<div class="header-cart-item-img">
-						<img src="images/item-cart-02.jpg" alt="IMG">
+						<img src="../images/item-cart-02.jpg" alt="IMG">
 					</div>
 
 					<div class="header-cart-item-txt p-t-8">
@@ -53,7 +53,7 @@ $Products=loadSanPham_Product();
 
 				<li class="header-cart-item flex-w flex-t m-b-12">
 					<div class="header-cart-item-img">
-						<img src="images/item-cart-03.jpg" alt="IMG">
+						<img src="../images/item-cart-03.jpg" alt="IMG">
 					</div>
 
 					<div class="header-cart-item-txt p-t-8">
@@ -94,7 +94,7 @@ $Products=loadSanPham_Product();
 		<div class="size-202 m-lr-auto respon4">
 			<!-- Block1 -->
 			<div class="block1 wrap-pic-w">
-				<img src="images/banner-04.jpg" alt="IMG-BANNER">
+				<img src="../images/banner-04.jpg" alt="IMG-BANNER">
 
 				<a href="index.php?ac=product" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
 					<div class="block1-txt-child1 flex-col-l">
@@ -119,7 +119,7 @@ $Products=loadSanPham_Product();
 		<div class="size-202 m-lr-auto respon4">
 			<!-- Block1 -->
 			<div class="block1 wrap-pic-w">
-				<img src="images/banner-05.jpg" alt="IMG-BANNER">
+				<img src="../images/banner-05.jpg" alt="IMG-BANNER">
 
 				<a href="index.php?ac=product" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
 					<div class="block1-txt-child1 flex-col-l">
@@ -144,7 +144,7 @@ $Products=loadSanPham_Product();
 		<div class="size-202 m-lr-auto respon4">
 			<!-- Block1 -->
 			<div class="block1 wrap-pic-w">
-				<img src="images/banner-06.jpg" alt="IMG-BANNER">
+				<img src="../images/banner-06.jpg" alt="IMG-BANNER">
 
 				<a href="index.php?ac=product" class="block1-txt ab-t-l s-full flex-col-l-sb p-lr-38 p-tb-34 trans-03 respon3">
 					<div class="block1-txt-child1 flex-col-l">
@@ -211,7 +211,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-01.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-01.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -224,7 +224,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-02.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-02.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -237,7 +237,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-03.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-03.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -250,7 +250,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-04.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-04.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -263,7 +263,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-05.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-05.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -276,7 +276,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-10.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-10.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -289,7 +289,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-07.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-07.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -302,7 +302,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-08.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-08.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -323,7 +323,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-09.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-09.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -341,8 +341,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -353,7 +353,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-10.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-10.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -371,8 +371,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -383,7 +383,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-11.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-11.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -401,8 +401,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -413,7 +413,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-12.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-12.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -431,8 +431,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -443,7 +443,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-13.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-13.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -461,8 +461,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -473,7 +473,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-14.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-14.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -491,8 +491,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -503,7 +503,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-15.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-15.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -521,8 +521,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -533,7 +533,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-16.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-16.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -551,8 +551,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -571,7 +571,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-02.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-02.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -589,8 +589,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -601,7 +601,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-04.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-04.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -619,8 +619,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -631,7 +631,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-06.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-06.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -649,8 +649,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -661,7 +661,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-09.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-09.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -679,8 +679,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -691,7 +691,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-11.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-11.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -709,8 +709,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -721,7 +721,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-13.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-13.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -739,8 +739,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -751,7 +751,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-15.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-15.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -769,8 +769,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -789,7 +789,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-03.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-03.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -807,8 +807,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -819,7 +819,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-06.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-06.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -837,8 +837,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -849,7 +849,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-07.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-07.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -867,8 +867,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -879,7 +879,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-08.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-08.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -897,8 +897,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -909,7 +909,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-09.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-09.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -927,8 +927,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -939,7 +939,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-10.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-10.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -957,8 +957,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -969,7 +969,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-11.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-11.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -987,8 +987,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -999,7 +999,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-12.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-12.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -1017,8 +1017,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -1029,7 +1029,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-13.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-13.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -1047,8 +1047,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -1059,7 +1059,7 @@ $Products=loadSanPham_Product();
 								<!-- Block2 -->
 								<div class="block2">
 									<div class="block2-pic hov-img0">
-										<img src="images/product-16.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-16.jpg" alt="IMG-PRODUCT">
 
 										
 									</div>
@@ -1077,8 +1077,8 @@ $Products=loadSanPham_Product();
 
 										<div class="block2-txt-child2 flex-r p-t-3">
 											<a href="#" class="btn-addwish-b2 dis-block pos-relative js-addwish-b2">
-												<img class="icon-heart1 dis-block trans-04" src="images/icons/icon-heart-01.png" alt="ICON">
-												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="images/icons/icon-heart-02.png" alt="ICON">
+												<img class="icon-heart1 dis-block trans-04" src="../images/icons/icon-heart-01.png" alt="ICON">
+												<img class="icon-heart2 dis-block trans-04 ab-t-l" src="../images/icons/icon-heart-02.png" alt="ICON">
 											</a>
 										</div>
 									</div>
@@ -1107,7 +1107,7 @@ $Products=loadSanPham_Product();
 				<div class="blog-item">
 					<div class="hov-img0">
 						<a href="blog.php">
-							<img src="images/blog-01.jpg" alt="IMG-BLOG">
+							<img src="../images/blog-01.jpg" alt="IMG-BLOG">
 						</a>
 					</div>
 
@@ -1152,7 +1152,7 @@ $Products=loadSanPham_Product();
 				<div class="blog-item">
 					<div class="hov-img0">
 						<a href="blog.php">
-							<img src="images/blog-02.jpg" alt="IMG-BLOG">
+							<img src="../images/blog-02.jpg" alt="IMG-BLOG">
 						</a>
 					</div>
 
@@ -1197,7 +1197,7 @@ $Products=loadSanPham_Product();
 				<div class="blog-item">
 					<div class="hov-img0">
 						<a href="blog.php">
-							<img src="images/blog-03.jpg" alt="IMG-BLOG">
+							<img src="../images/blog-03.jpg" alt="IMG-BLOG">
 						</a>
 					</div>
 
@@ -1249,7 +1249,7 @@ $Products=loadSanPham_Product();
 	<div class="container">
 		<div class="bg0 p-t-60 p-b-30 p-lr-15-lg how-pos3-parent">
 			<button class="how-pos3 hov3 trans-04 js-hide-modal1">
-				<img src="images/icons/icon-close.png" alt="CLOSE">
+				<img src="../images/icons/icon-close.png" alt="CLOSE">
 			</button>
 
 			<div class="row">
@@ -1262,7 +1262,7 @@ $Products=loadSanPham_Product();
 							<div class="slick3 gallery-lb">
 								<div class="item-slick3" data-thumb="images/product-detail-01.jpg">
 									<div class="wrap-pic-w pos-relative">
-										<img src="images/product-detail-01.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-detail-01.jpg" alt="IMG-PRODUCT">
 
 										<a class="flex-c-m size-108 how-pos1 bor0 fs-16 cl10 bg0 hov-btn3 trans-04" href="images/product-detail-01.jpg">
 											<i class="fa fa-expand"></i>
@@ -1272,7 +1272,7 @@ $Products=loadSanPham_Product();
 
 								<div class="item-slick3" data-thumb="images/product-detail-02.jpg">
 									<div class="wrap-pic-w pos-relative">
-										<img src="images/product-detail-02.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-detail-02.jpg" alt="IMG-PRODUCT">
 
 										<a class="flex-c-m size-108 how-pos1 bor0 fs-16 cl10 bg0 hov-btn3 trans-04" href="images/product-detail-02.jpg">
 											<i class="fa fa-expand"></i>
@@ -1282,7 +1282,7 @@ $Products=loadSanPham_Product();
 
 								<div class="item-slick3" data-thumb="images/product-detail-03.jpg">
 									<div class="wrap-pic-w pos-relative">
-										<img src="images/product-detail-03.jpg" alt="IMG-PRODUCT">
+										<img src="../images/product-detail-03.jpg" alt="IMG-PRODUCT">
 
 										<a class="flex-c-m size-108 how-pos1 bor0 fs-16 cl10 bg0 hov-btn3 trans-04" href="images/product-detail-03.jpg">
 											<i class="fa fa-expand"></i>
